@@ -18,7 +18,7 @@ This repo also includes subprojects that explore using various types of models, 
 - [Boston](#boston)
 - [Housing](#housing)
 - [MNIST](#mnist)
-- [Protein Stucture](#protein-structure)
+- [Protein Stucture](#protein-stucture)
 - [Signals](#signals)
 
 
